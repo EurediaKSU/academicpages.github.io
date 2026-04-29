@@ -13,9 +13,9 @@ title                    : "Joseph Arnold"
 title_separator          : "-"
 name                     : &name "Joseph Arnold"
 description              : "PhD Student in Business Information Systems"
-url                      : "https://josepharnold.github.io"
-baseurl                  : ""
-repository               : "josepharnold/josepharnold.github.io"
+url                      : "https://eurediaksu.github.io"
+baseurl                  : "/josepharnold.github.io"
+repository               : "eurediaksu/josepharnold.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

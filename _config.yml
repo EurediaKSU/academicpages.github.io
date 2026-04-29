@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Joseph Arnold"
 title_separator          : "-"
-name                     : &name "Andy Green, Ph.D."
+name                     : &name "Joseph Arnold"
 description              : "PhD Student in Business Information Systems"
 url                      : "https://josepharnold.github.io"
 baseurl                  : ""
@@ -29,7 +29,7 @@ author:
   employer         : "Kennesaw State University"
   uri              : # URL
   email            : "jarnol92@students.kennesaw.edu" 
-  github:          : "josepharnold"
+  github          : "josepharnold"
 
   # Academic websites
   academia         : # URL
